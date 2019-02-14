@@ -1,13 +1,12 @@
-title: kakao 기술 블로그
-email: opensource@kakaocorp.com
+title: Teddy's Blog
+email: ppyoung2@nate.com
 description: |
-  Connect Everything 새로운 연결, 새로운 세상.
-  연결의 혁신으로 세상은 더욱 가깝고 새로워진다고 카카오는 믿습니다.
+  
 baseurl: ''
-url: 'http://tech.kakao.com'
+url: ''
 timezone: Asia/Seoul 
 
-repository: kakao/kakao.github.io
+repository: ppyoung2/ppyoung2.github.io
 
 permalink: /:year/:month/:day/:title/
 
