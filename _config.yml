@@ -1,9 +1,9 @@
-title: Teddy's Blog
+title: Teddy's Story
 email: ppyoung2@nate.com
 description: |
   
 baseurl: ''
-url: ''
+url: 'ppyoung2/ppyoung2.github.io'
 timezone: Asia/Seoul 
 
 repository: ppyoung2/ppyoung2.github.io
@@ -49,7 +49,7 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
-author: opensource@kakaocorp.com
+author: ppyoung2@nate.com
 image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
@@ -57,11 +57,11 @@ asset_url: /assets
 google_analytics:
   ua: 'UA-72007721-1'
 facebook:
-  app_id: '1204347326263800'
-  username: nkakao
+  app_id: ''
+  username: 
 twitter:
-  username: kakaodev
+  username: 
 google_plus:
-  username: kakaodev
+  username: 
 github_url:
-  username: kakao
+  username: teddy
