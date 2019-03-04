@@ -1,20 +1,20 @@
 ---
 layout: page
-title: wiznet
-image: /files/covers/wiznet.png
-permalink: /wiznet/
+title: events
+image: /files/covers/events.jpg
+permalink: /events/
 sitemap: yes
 excerpt: 메뉴2를 소개합니다.
-tags: [wiznet]
+tags: [events]
 ---
 
 <!--
 <a id="forkme" href="https://github.com/taylor-an"></a>
 -->
 
-# [wiznet]
+# [events]
 
-wiznet
+education
 
 <!--
 
@@ -29,4 +29,3 @@ wiznet
 > [http://github.com/taylor-an](http://github.com/taylor-an) 
 -->
 
-[wiznet]:https://www.wiznet.io/ko/
