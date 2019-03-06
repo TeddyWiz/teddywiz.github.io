@@ -25,15 +25,18 @@ image: /files/covers/head-tail.jpg
 
  ## 3. 프로그램
  * 테스트용 프로그램을 사이트에서 제공해 주고있습니다.
+ * 웹서버를 구현해서 LAP(Limited Access Point) Mode를 이용해 Wifi 설정이 가능하게 했고 Wifi를 접속하여 Web 사이트에서 컨트롤이 가능하게 했습니다.
  * 프로그램 제공 사이트 (https://www.elektormagazine.com/magazine/elektor-201306/20740)
 
  ## 4. 동작 결과
  * LAP(Limited Access Point)mode에서 Wifi 설정 합니다.
+
  ![Web1](/files/posts/2019-03-06/web1.png)
  * 웹페이지에 접속하여 제어 합니다.
+
  ![Web2](/files/posts/2019-03-06/web2.png)
  * 아래 그림과 같이 동작 합니다.
 
-   ![Result](/files/posts/2019-03-06/result.png)
+ ![Result](/files/posts/2019-03-06/result.png)
  * 사이트에서 참고 하셔서 따라해보는 것도 즐거울 것 같습니다.
  감사합니다.
