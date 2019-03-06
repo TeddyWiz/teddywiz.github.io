@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Introduce Wifi Control Board'
+title: 'Wifi Control Board 소개'
 author: teddy
 date: 2019-03-06 09:00
 tags: [WIZnet]
