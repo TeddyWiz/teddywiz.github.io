@@ -9,10 +9,11 @@ image: /files/covers/head-tail.jpg
 
 # Git-hub Push중 Permission Error
 ## 1. 증상
-      Source Tree사용중 Push 중 아래와 같은 Error 메세지 표시
-      Commend 명령에서도 같은 Error 메세지 표시
-      하지만 Web에서는 다른 기능 사용 가능(Branch생성 또는 삭제) OWNER 권한
+ - Source Tree사용중 Push 중 아래와 같은 Error 메세지 표시
+ - Commend 명령에서도 같은 Error 메세지 표시
+ - Web에서는 다른 기능 사용 가능(Branch생성 또는 삭제) OWNER 권한
  ![Error Message](/files/posts/2019-03-21-1/1-1.png)
+
 ## 2. 해결 방안
 ### 1) 제어판에서 사용자 계정 선택
 ![방법 1](/files/posts/2019-03-21-1/1-2.png)
@@ -29,3 +30,5 @@ image: /files/covers/head-tail.jpg
       Source Tree나 Commend 입력 창에서 Push 사용 가능을 확인 할수 있습니다.
 ![방법 5](/files/posts/2019-03-21-1/1-6.png)
 ![방법 6](/files/posts/2019-03-21-1/1-5.png)
+
+감사합니다.
