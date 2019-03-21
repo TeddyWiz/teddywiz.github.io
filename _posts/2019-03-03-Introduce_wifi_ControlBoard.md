@@ -2,7 +2,7 @@
 layout: post
 title: 'Wifi Control Board 소개'
 author: Teddy
-date: 2019-03-06 09:00
+date: 2019-03-03 09:00
 tags: [WIZnet]
 image: /files/covers/head-tail.jpg
 ---
