@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Git-hub Permission Error'
-author: teddy
+author: Teddy
 date: 2019-03-21 16:00
 tags: [Git-hub]
 image: /files/covers/head-tail.jpg
