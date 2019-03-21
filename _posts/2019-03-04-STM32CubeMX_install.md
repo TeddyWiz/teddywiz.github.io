@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Porting STM32Cube install'
+title: 'STM32Cube Download & install'
 author: Teddy
 date: 2019-03-04 13:00
 tags: [STM]
@@ -10,7 +10,7 @@ image: /files/covers/head-tail.jpg
 # STM32CubeMX Download & install
 ## 1) 프로그램 다운로드
 
- * 프로그램 다운로드 사이트(https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stm32cubemx.html)
+ * [프로그램 다운로드 사이트](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stm32cubemx.html)
 
  * 아래 같이 Get Software 버튼 클릭하면 다음 화면으로 이동합니다.
  ![download site](/files/posts/2019-03-04/stm32cube_home.png)

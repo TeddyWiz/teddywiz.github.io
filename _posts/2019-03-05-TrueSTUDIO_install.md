@@ -11,7 +11,7 @@ image: /files/covers/head-tail.jpg
 
 ## 1)프로그램 다운로드
 
-* 프로그램 다운로드 사이트 : https://atollic.com/truestudio/
+* 프로그램 다운로드 사이트 : [https://atollic.com/truestudio/](https://atollic.com/truestudio/)
 
 * 다운로드 사이트에 이동후에 화면 상단에 를 클릭합니다.<br>
 ![download](/files/posts/2019-03-05/2019-03-05-01.png)
