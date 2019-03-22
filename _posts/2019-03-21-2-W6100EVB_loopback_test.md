@@ -13,7 +13,7 @@ image: /files/covers/head-tail.jpg
 ## 1. W6100EVB STLINK 연결
 
  * W6100EVB와 Nucleo의 ST Link 연결 합니다. 주의 점퍼 제거 해야 합니다.
- ![setting](/files/posts/2019-03-21-2/2019-03-21-2-00-3.png)
+ ![setting](/files/posts/2019-03-21-2/2019-03-21-2-00-3.jpg)
 
 ## 2. CubeMX 설정 방법
  * CubeMX를 실행 후  File -> New Project를 클릭합니다.
