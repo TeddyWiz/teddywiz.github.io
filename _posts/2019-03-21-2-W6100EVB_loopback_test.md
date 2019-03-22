@@ -10,7 +10,12 @@ image: /files/covers/head-tail.jpg
 
 # W6100EVB CubeMX 사용 Loopback test
 
-## 1. CubeMX 설정 방법
+## 1. W6100EVB STLINK 연결
+
+ * W6100EVB와 Nucleo의 ST Link 연결 합니다. 주의 점퍼 제거 해야 합니다.
+ ![setting](/files/posts/2019-03-21-2/2019-03-21-2-00-3.png)
+
+## 2. CubeMX 설정 방법
  * CubeMX를 실행 후  File -> New Project를 클릭합니다.
  ![setting](/files/posts/2019-03-21-2/2019-03-21-2-00-1.png)
 
@@ -44,7 +49,7 @@ image: /files/covers/head-tail.jpg
  * 설정을 완료 후에 GENERATE CODE를 클릭하여 코드를 생성합니다. 그리고 Open Project를 선택합니다.<br>
  ![setting](/files/posts/2019-03-21-2/2019-03-21-2-09.png)
 
-## 2. Driver file 다운로드 및 TrueSTUDIO 셋팅
+## 3. Driver file 다운로드 및 TrueSTUDIO 셋팅
 
  * Wiznet Git-Hub에서 Driver file을 다운받습니다. github site : [https://github.com/Wiznet/io6Library](https://github.com/Wiznet/io6Library).<br>
  ![setting](/files/posts/2019-03-21-2/2019-03-21-2-10.png)
@@ -67,7 +72,7 @@ image: /files/covers/head-tail.jpg
  * C/C++ Geneal에서 Paths and Symbol에서 아래와 같이 입력합니다. 그리고 아까 추가했던 Driver File을 적용하기위해 File Path 하나를 더 추가 합니다.<br>
  ![setting](/files/posts/2019-03-21-2/2019-03-21-2-14.png)
 
-## 3. LoopBack 프로그램
+## 4. LoopBack 프로그램
 
  * Driver 코드와 Loopback 프로그램을 가져오기 위해서 아래와 같이 입력합니다.
  * 코드입력은 왼쪽의 숫자와 각각의 생성된 주석을 참고 하여 입력합니다.<br>
@@ -91,10 +96,12 @@ image: /files/covers/head-tail.jpg
  * 입력이 끝나면 위쪽의 도구모음에 망치 모양을 클릭하여  Build하고 풍댕이 모양의 debug를 클릭합니다.<br>
  ![setting](/files/posts/2019-03-21-2/2019-03-21-2-22.png)
 
- * Hercules 프로그램을 이용하여 구동하는 것을 확인합니다.<br>
- ![setting](/files/posts/2019-03-21-2/2019-03-21-2-23.png)
+## 5. LoopBack 프로그램
 
- * TCP Client에서 Loopback 메세지가 실행 되는 것을 확인합니다..<br>
- ![setting](/files/posts/2019-03-21-2/2019-03-21-2-24.png)
+ * 왼쪽에 테라텀을 이용해 시리얼 연결을 합니다.
+ * 열결해야 될 IP 주소 및 포트를 확인하고 Hercules 프로그램을 구동합니다.
+ * Hercules 프로그램의 TCP Client에서 확인한 IP주소 및 포트를 입력 후 연결합니다.<br>
+ * Send 창에서 메세지를 입력하고 Send하면 그대로 메세지가 돌아오는 것을 확인 할 수 있습니다.
+ ![setting](/files/posts/2019-03-21-2/2019-03-21-2-25.png)
 
 감사합니다.
