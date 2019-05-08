@@ -15,7 +15,7 @@ image: /files/covers/head-tail.jpg
  - 왼쪽의 파일들 추가
 
 <p align="center">
-  <img width="60%" src="..\files\posts\2019-05-08-1\20190508_1_001.png" />
+  <img width="60%" src="files\posts\2019-05-08-1\20190508_1_001.png" />
 </p>
 
 ### 2. Goups 선택 후 파일 추가
