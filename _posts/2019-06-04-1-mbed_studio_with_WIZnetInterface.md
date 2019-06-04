@@ -13,13 +13,13 @@ image: /files/covers/head-tail.jpg
  - main menu File -> New Program
 
 <p align="center">
-  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_001.png" />
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_001.png?raw=true" />
 </p>
 
 ## 생성 후 바로 Build Program 
 
 <p align="center">
-  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_002.png" />
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_002.png?raw=true" />
 </p>
 
 ## WIZnetInterface Library 추가
@@ -28,19 +28,19 @@ image: /files/covers/head-tail.jpg
  - mbed os site [WIZnetInterface](https://os.mbed.com/teams/WIZnet/code/WIZnetInterface-Mbed-OS-5-Library/)
 
 <p align="center">
-  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_003.png" />
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_003.png?raw=true" />
 </p>
 
  - git-hub [WIZnetInterface](https://github.com/WIZnet-MbedEthernet/WIZnetInterface)
 
 <p align="center">
-  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_004.png" />
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_004.png?raw=true" />
 </p>
 
  - Mbed Studio menu File -> Add Library to Active Program
 
 <p align="center">
-  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_005.png" />
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_005.png?raw=true" />
 </p>
 
  - Add Mbed Library에 복사한 주소 넣기
