@@ -46,25 +46,25 @@ image: /files/covers/head-tail.jpg
  - Add Mbed Library에 복사한 주소 넣기
 
 <p align="center">
-  <img width="60%" src="./../files/posts/2019-06-04-1/mbed_studio_set_006.png" />
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_006.png?raw=true" />
 </p> 
 
  - Branch or Tag 선택
 
 <p align="center">
-  <img width="60%" src="./../files/posts/2019-06-04-1/mbed_studio_set_007.png" />
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_007.png?raw=true" />
 </p> 
 
  - Master Branch 선택
 
 <p align="center">
-  <img width="60%" src="./../files/posts/2019-06-04-1/mbed_studio_set_008.png" />
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_008.png?raw=true" />
 </p> 
 
 - WIZnetInterface 추가 완료
 
 <p align="center">
-  <img width="60%" src="./../files/posts/2019-06-04-1/mbed_studio_set_009.png" />
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_009.png?raw=true" />
 </p> 
 
 ## mbed_app.json File  수정
@@ -137,7 +137,7 @@ image: /files/covers/head-tail.jpg
 ## Build 및 프로그램 실행
 
 <p align="center">
-  <img width="60%" src="./../files/posts/2019-06-04-1/mbed_studio_set_010.png" />
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2019-06-04-1/mbed_studio_set_010.png?raw=true" />
 </p> 
 
 ## 결과 화면
