@@ -3,7 +3,7 @@ layout: post
 title: 'mbed-os-example-socket with WIZnetInterface in mbed studio'
 author: Teddy
 date: 2019-06-04 20:40
-tags: [Wiznet][mbed]
+tags: [Wiznet]
 image: /files/covers/head-tail.jpg
 ---
 
