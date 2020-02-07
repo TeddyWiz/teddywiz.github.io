@@ -134,3 +134,8 @@ image: /files/covers/head-tail.jpg
   <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2020-02-06-1/W5x00_IntegrationProject_019.png?raw=true" />
 </p>
 
+- Result of the running the program.
+
+<p align="center">
+  <img width="60%" src="https://github.com/TeddyWiz/teddywiz.github.io/blob/master/files/posts/2020-02-06-1/W5x00_IntegrationProject_020.png?raw=true" />
+</p>
