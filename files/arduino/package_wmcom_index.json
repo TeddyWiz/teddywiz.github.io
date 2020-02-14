@@ -1,0 +1,371 @@
+{
+	"packages": [
+		{
+			"maintainer": "W600 Community",
+			"help": {
+				"online": "http://arduino.winnermicro.com"
+			},
+			"websiteURL": "http://arduino.winnermicro.com",
+			"email": "info@winnermicro.com",
+			"name": "w600",
+			"platforms": [
+				{
+					"category": "W600",
+					"help": {
+						"online": "http://arduino.winnermicro.com"
+					},
+					"url": "http://arduino.winnermicro.com/arduino/release/rc/w600-arduino-0.2.7-rc1.zip",
+					"checksum": "SHA-256:047bcbeb4a47732fa30f6204ff8c6c62e06912b046156085b5aa42fd4d222499",
+					"name": "w600",
+					"version": "0.2.7-rc1",
+					"architecture": "w600",
+					"archiveFileName": "w600-arduino-0.2.7-rc1.zip",
+					"size": "29144761",
+					"toolsDependencies": [
+						{
+							"packager": "w600",
+							"version": "4_9-2015q1-20150306",
+							"name": "gcc-arm-none-eabi"
+						},
+						{
+							"packager": "w600",
+							"version": "0.3.2",
+							"name": "wmtools"
+						}
+					],
+					"boards": [
+						{ "name": "Generic W600 EV Module" },
+						{ "name": "TB_01" }, { "name": "TW-01"}, { "name": "TW-02" }, { "name": "TW-03" },
+						{ "name": "WIO W600" }
+					]
+				},
+				{
+					"category": "W600",
+					"help": {
+						"online": "http://arduino.winnermicro.com"
+					},
+					"url": "http://arduino.winnermicro.com/arduino/release/0.2.6/w600-arduino-0.2.6.zip",
+					"checksum": "SHA-256:0917227f835dcbb76cdf7f28929581214d06bf2b2f94c4f49262dcb4cdbacb78",
+					"name": "w600",
+					"version": "0.2.6",
+					"architecture": "w600",
+					"archiveFileName": "w600-arduino-0.2.6.zip",
+					"size": "28909081",
+					"toolsDependencies": [
+						{
+							"packager": "w600",
+							"version": "4_9-2015q1-20150306",
+							"name": "gcc-arm-none-eabi"
+						},
+						{
+							"packager": "w600",
+							"version": "0.3.2",
+							"name": "wmtools"
+						}
+					],
+					"boards": [
+						{ "name": "Generic W600 EV Module" },
+						{ "name": "WIO W600" }
+					]
+				},
+				{
+					"category": "W600",
+					"help": {
+						"online": "http://arduino.winnermicro.com"
+					},
+					"url": "http://arduino.winnermicro.com/arduino/release/0.2.5/w600-arduino-0.2.5.zip",
+					"checksum": "SHA-256:f41e56c635c9bf70ea3d38c264908ea5b15fe3e4d8ed330d2880652dd279d1b0",
+					"name": "w600",
+					"version": "0.2.5",
+					"architecture": "w600",
+					"archiveFileName": "w600-arduino-0.2.5.zip",
+					"size": "28905904",
+					"toolsDependencies": [
+						{
+							"packager": "w600",
+							"version": "4_9-2015q1-20150306",
+							"name": "gcc-arm-none-eabi"
+						},
+						{
+							"packager": "w600",
+							"version": "0.3.2",
+							"name": "wmtools"
+						}
+					],
+					"boards": [
+						{ "name": "Generic W600 EV Module" },
+						{ "name": "WIO W600" }
+					]
+				},
+				{
+					"category": "W600",
+					"help": {
+						"online": "http://arduino.winnermicro.com"
+					},
+					"url": "http://arduino.winnermicro.com/arduino/release/0.2.4/w600-arduino-0.2.4.zip",
+					"checksum": "SHA-256:e68293cba6f726dcde27e65051728601d44d148a34aa76ed398f849d4e1accf5",
+					"name": "w600",
+					"version": "0.2.4",
+					"architecture": "w600",
+					"archiveFileName": "w600-arduino-0.2.4.zip",
+					"size": "29561216",
+					"toolsDependencies": [
+						{
+							"packager": "w600",
+							"version": "4_9-2015q1-20150306",
+							"name": "gcc-arm-none-eabi"
+						},
+						{
+							"packager": "w600",
+							"version": "0.3.1",
+							"name": "wmtools"
+						}
+					],
+					"boards": [
+						{
+							"name": "Generic W600 EV Module"
+						}
+					]
+				},
+				{
+					"category": "W600",
+					"help": {
+						"online": "http://arduino.winnermicro.com"
+					},
+					"url": "http://arduino.winnermicro.com/arduino/release/0.2.3/w600-arduino-0.2.3.zip",
+					"checksum": "SHA-256:047ad6b608f79f61261f83caba4ea74dee273874384317886580e699e29dd2f4",
+					"name": "w600",
+					"version": "0.2.3",
+					"architecture": "w600",
+					"archiveFileName": "w600-arduino-0.3.0.zip",
+					"size": "29537449",
+					"toolsDependencies": [
+						{
+							"packager": "w600",
+							"version": "4_9-2015q1-20150306",
+							"name": "gcc-arm-none-eabi"
+						},
+						{
+							"packager": "w600",
+							"version": "0.3.0",
+							"name": "wmtools"
+						}
+					],
+					"boards": [
+						{
+							"name": "Generic W600 EV Module"
+						}
+					]
+				},
+				{
+					"category": "W600",
+					"help": {
+						"online": "http://arduino.winnermicro.com"
+					},
+					"url": "http://arduino.winnermicro.com/arduino/release/0.2.2/w600-arduino-0.2.2.zip",
+					"checksum": "SHA-256:69b073ef2389189b2370f568fb2fbda6ebb0e3225623ee73e229a3a9b72e4399",
+					"name": "w600",
+					"version": "0.2.2",
+					"architecture": "w600",
+					"archiveFileName": "w600-arduino-0.2.2.zip",
+					"size": "27953527",
+					"toolsDependencies": [
+						{
+							"packager": "w600",
+							"version": "4_9-2015q1-20150306",
+							"name": "gcc-arm-none-eabi"
+						},
+						{
+							"packager": "w600",
+							"version": "0.2.2",
+							"name": "wmtools"
+						}
+					],
+					"boards": [
+						{
+							"name": "Generic W600 EV Module"
+						}
+					]
+				},
+				{
+					"category": "W600",
+					"help": {
+						"online": "http://arduino.winnermicro.com"
+					},
+					"url": "http://arduino.winnermicro.com/arduino/release/0.2.1/w600-arduino-0.2.1.zip",
+					"checksum": "SHA-256:57cfdb187bdb01174a675690f53f51add2f052da4e52d8d512975b5a9ca54f78",
+					"name": "w600",
+					"version": "0.2.1",
+					"architecture": "w600",
+					"archiveFileName": "w600-arduino-0.2.1.zip",
+					"size": "27953520",
+					"toolsDependencies": [
+						{
+							"packager": "w600",
+							"version": "4_9-2015q1-20150306",
+							"name": "gcc-arm-none-eabi"
+						},
+						{
+							"packager": "w600",
+							"version": "0.2.1",
+							"name": "wmtools"
+						}
+					],
+					"boards": [
+						{
+							"name": "Generic W600 EV Module"
+						}
+					]
+				}
+			],
+			"tools": [
+                {
+                    "version": "0.3.5",
+                    "name": "wmtools",
+                    "systems": [
+                        {
+                            "url": "http://arduino.winnermicro.com/arduino/wmtools/0.3.5/wmtools-0.3.5-win.zip",
+                            "checksum": "SHA-256:b74d3208d1e99e45739bbfd1ff531f12594107f9e6663c3ee60b34e43b6ce38d",
+                            "archiveFileName": "wmtools-0.3.5-win.zip",
+                            "host": "i686-mingw32",
+                            "size": "5453122"
+                        },
+                        {
+                            "url": "http://arduino.winnermicro.com/arduino/wmtools/0.3.5/wmtools-0.3.5-mac.tar.bz2",
+                            "checksum": "SHA-256:b5e6524cfb27cd3c3af41dc6ad5f792af95740b1708e2976ee4b9be1771416c1",
+                            "archiveFileName": "wmtools-0.3.5-mac.tar.bz2",
+                            "host": "x86_64-apple-darwin",
+                            "size": "4914493"
+                        },
+                        {
+                            "url": "http://arduino.winnermicro.com/arduino/wmtools/0.3.5/wmtools-0.3.5-linux32.tar.bz2",
+                            "checksum": "SHA-256:476a736124b3178a553c6f937a687bd8d50300f6c855c4892073b3e1d72fdc84",
+                            "archiveFileName": "wmtools-0.3.5-linux32.tar.bz2",
+                            "host": "i686-pc-linux-gnu",
+                            "size": "5358908"
+                        },
+                        {
+                            "url": "http://arduino.winnermicro.com/arduino/wmtools/0.3.5/wmtools-0.3.5-linux64.tar.bz2",
+                            "checksum": "SHA-256:c6a887a93bfc131a270eab4b7ca41bf0b269129920c2ac6178a9ecbf011a75af",
+                            "archiveFileName": "wmtools-0.3.5-linux64.tar.bz2",
+                            "host": "x86_64-pc-linux-gnu",
+                            "size": "5359191"
+                        }
+                    ]
+                },
+				{
+					"version": "0.3.2",
+					"name": "wmtools",
+					"systems": [
+						{
+							"url": "http://arduino.winnermicro.com/arduino/wmtools/0.3.2/wmtools-0.3.2.zip",
+							"checksum": "SHA-256:32119e37fcba6b67095284775143d216807052f31df27f8e0186236f94635760",
+							"host": "i686-mingw32",
+							"archiveFileName": "wmtools-0.3.2.zip",
+							"size": "6691645"
+						}
+					]
+				},
+				{
+					"version": "0.3.1",
+					"name": "wmtools",
+					"systems": [
+						{
+							"url": "http://arduino.winnermicro.com/arduino/wmtools/0.3.1/wmtools-0.3.1.zip",
+							"checksum": "SHA-256:a3b3a2947cb65c9ce16969fd324929f58224de256c2c1b0bcbfe41f9a242590d",
+							"host": "i686-mingw32",
+							"archiveFileName": "wmtools-0.3.1.zip",
+							"size": "6688755"
+						}
+					]
+				},
+				{
+					"version": "0.3.0",
+					"name": "wmtools",
+					"systems": [
+						{
+							"url": "http://arduino.winnermicro.com/arduino/wmtools/0.3.0/wmtools-0.3.0.zip",
+							"checksum": "SHA-256:beeb8db3e238ef61ec27afe981ce28b96f4d1d6d711522384b27b759f5f65064",
+							"host": "i686-mingw32",
+							"archiveFileName": "wmtools-0.3.0.zip",
+							"size": "6690347"
+						}
+					]
+				},
+				{
+					"version": "0.2.2",
+					"name": "wmtools",
+					"systems": [
+						{
+							"url": "http://arduino.winnermicro.com/arduino/wmtools/0.2.2/wmtools-0.2.2.zip",
+							"checksum": "SHA-256:43b3eea6c846b92298db61be666f62da425bf7ca9a141b45a5a472cfc1276931",
+							"host": "i686-mingw32",
+							"archiveFileName": "wmtools-0.2.2.zip",
+							"size": "6665591"
+						}
+					]
+				},
+				{
+					"version": "0.2.1",
+					"name": "wmtools",
+					"systems": [
+						{
+							"url": "http://arduino.winnermicro.com/arduino/wmtools/0.2.1/wmtools-0.2.1.zip",
+							"checksum": "SHA-256:0380638e4838651c2ca930ceede32ccdbc49249ca4a943016794b15d34730263",
+							"host": "i686-mingw32",
+							"archiveFileName": "wmtools-0.2.1.zip",
+							"size": "6671813"
+						}
+					]
+				},
+				{
+					"version": "6-2017-q2-update",
+					"name": "gcc-arm-none-eabi",
+					"systems": [
+						{
+							"url": "http://arduino.winnermicro.com/arduino/toolchain/gcc-arm-none-eabi-arduino/6-2017-q2/gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
+							"checksum": "SHA-256:37a19a4b987aeb077c29bcc3854e9cc58210292ab08eb990c4ef945a59d86c0d",
+							"host": "i686-mingw32",
+							"archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
+							"size": "94146952"
+						}
+					]
+				},
+				{
+					"version": "4_9-2015q1-20150306",
+					"name": "gcc-arm-none-eabi",
+					"systems": [
+						{
+							"url": "http://arduino.winnermicro.com/arduino/toolchain/gcc-arm-none-eabi-arduino/4_9-2015q1/gcc-arm-none-eabi-arduino-4_9-2015q1-20150306-win32.zip",
+							"checksum": "SHA-256:6c6662813a71b0e3262f6be77f7bc63cefd154fe400177040f561a841e7dafce",
+							"host": "i686-mingw32",
+							"archiveFileName": "gcc-arm-none-eabi-arduino-4_9-2015q1-20150306-win32.zip",
+							"size": "98594242"
+                        },
+                        {
+                            "url": "http://arduino.winnermicro.com/arduino/toolchain/gcc-arm-none-eabi-arduino/4_9-2015q1/gcc-arm-none-eabi-4_9-2015q1-mac.tar.bz2",
+                            "checksum": "SHA-256:5607412e3653a7f0d83c3b802e529b73f9ff6ac59b9ec950e23ba7b0607a750a",
+                            "archiveFileName": "gcc-arm-none-eabi-4_9-2015q1-mac.tar.bz2",
+                            "host": "x86_64-apple-darwin",
+                            "size": "85767636"
+                        },
+                        {
+                            "url": "http://arduino.winnermicro.com/arduino/toolchain/gcc-arm-none-eabi-arduino/4_9-2015q1/gcc-arm-none-eabi-4_9-2015q1-20150306-linux.tar.bz2",
+                            "checksum": "SHA-256:c5e0025b065750bbd76b5357b4fc8606d88afbac9ff55b8a82927b4b96178154",
+                            "archiveFileName": "gcc-arm-none-eabi-4_9-2015q1-20150306-linux.tar.bz2",
+                            "host": "x86_64-pc-linux-gnu",
+                            "size": "74404999"
+                        },
+                        {
+                            "url": "http://arduino.winnermicro.com/arduino/toolchain/gcc-arm-none-eabi-arduino/4_9-2015q1/gcc-arm-none-eabi-4_9-2015q1-20150306-linux.tar.bz2",
+                            "checksum": "SHA-256:c5e0025b065750bbd76b5357b4fc8606d88afbac9ff55b8a82927b4b96178154",
+                            "archiveFileName": "gcc-arm-none-eabi-4_9-2015q1-20150306-linux.tar.bz2",
+                            "host": "i686-pc-linux-gnu",
+                            "size": "74404999"
+                        }
+					]
+				}
+			]
+		}
+	]
+}
